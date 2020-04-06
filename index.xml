@@ -6,70 +6,21 @@
     <description>Recent content on RA-03</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>es-es</language>
-    <lastBuildDate>Sun, 05 Apr 2020 22:55:03 -0400</lastBuildDate>
+    <lastBuildDate>Sun, 05 Apr 2020 20:37:44 -0400</lastBuildDate>
     
 	<atom:link href="../index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
-      <title>Contacto</title>
-      <link>../contacto/</link>
-      <pubDate>Sun, 05 Apr 2020 22:55:03 -0400</pubDate>
+      <title>Respiradores RA</title>
+      <link>../</link>
+      <pubDate>Sun, 05 Apr 2020 20:37:44 -0400</pubDate>
       
-      <guid>../contacto/</guid>
-      <description>El autor de este sitio y del diseno de RA-03 es el profesor Raul Mera Su correo electronico aparece en la pagina enlazada.</description>
-    </item>
-    
-    <item>
-      <title>Links</title>
-      <link>../links/</link>
-      <pubDate>Sun, 05 Apr 2020 22:54:08 -0400</pubDate>
-      
-      <guid>../links/</guid>
-      <description>Links relevantes se agregaran en el futuro.</description>
-    </item>
-    
-    <item>
-      <title>Discusion</title>
-      <link>../discusion/</link>
-      <pubDate>Sun, 05 Apr 2020 22:44:31 -0400</pubDate>
-      
-      <guid>../discusion/</guid>
-      <description>Ventajas del diseño  El diseño propuesto cumple con las metas de diseño definidas. Si bien requiere de varios materiales, todos son de fácil acceso, y, si bien es un proceso relativamente laborioso, no reviste mayor dificultad, y debiera ser posible de llevar a cabo por cualquier persona. Adicionalmente, AR-03 tiene la ventaja de tener solamente un punto de entrada de aire, por lo que es posible comprobar el sello “negativo” (a la entrada de aire) simplemente enroscando una botella completa (no cortada y sin orificios) a la articulación del filtro, e intentando respirar.</description>
-    </item>
-    
-    <item>
-      <title>Instrucciones</title>
-      <link>../instrucciones/</link>
-      <pubDate>Sun, 05 Apr 2020 21:59:05 -0400</pubDate>
-      
-      <guid>../instrucciones/</guid>
-      <description>La confección del prototipo se dividirá en varias partes:
-Confección de la válvula de escape Preámbulo Una válvula de escape permite la salida desde, pero no la entrada de aire hacia el respirador, y es necesaria para evitar el calentamiento y la acumilacion de humedad dentro de este, en particular para respiradores a ser utilizados por periodos largos de tiempo. Típicamente, la válvula de un respirador comercial consiste en un orificio en el equipo cubierto por una membrana flexible, adherida por fuera al respirador por solamente un extremo.</description>
-    </item>
-    
-    <item>
-      <title>Vision</title>
-      <link>../vision/</link>
-      <pubDate>Sun, 05 Apr 2020 21:46:39 -0400</pubDate>
-      
-      <guid>../vision/</guid>
-      <description>Introducción La enfermedad COVID19, causada por el coronavirus SARS-CoV-2 ha causado un impacto sanitario, social y económico sin precedentes en la últimas décadas. Su alta transmisibilidad ha causado escasez de material de protección para la exposición profesional a pacientes infectados. En otras partes del mundo, esta falta de material protector, sumada a otros factores, ha causado altas tasas de infección entre los profesionales/trabajadores de la salud, y similares. Este fenómeno es de extrema gravedad, no solo por el valor de la vida y la salud de los trabajadores mismos, que ya sería causa suficiente, sino porque cada profesional que debe ser aislado, significa una pérdida importante en la capacidad de contención de la emergencia para todo el resto de la población.</description>
-    </item>
-    
-    <item>
-      <title>Materiales</title>
-      <link>../materiales/</link>
-      <pubDate>Sun, 05 Apr 2020 21:32:21 -0400</pubDate>
-      
-      <guid>../materiales/</guid>
-      <description>Una de las metas de diseno de los respiradores RA es que su confeccion no requiera de materiales de dificil acceso.
-Nota Por reproducibilidad, se indican las marcas y modelos (entre corchetes) usados para la confeccion del prototipo RA-03
- 1 Bolsa resellable [Ilko], mediana
- Cinta aisladora [3M]
- Cinta de doble faz [extreme mounting tape, 3M]
- Cinta de teflón 0.075 mm x 3,4’’ [Dura]
- Cinta americana, cinta de ducto, o duct tape [Tesa]</description>
+      <guid>../</guid>
+      <description>Pensados para la protección de personal de la salud y otros profesionales expuestos al agente viral SARS-CoV-2, que causa la enfermedad COVID-19.
+  El prototipo actual, RA-03 puede confeccionarse fácilmente, sin habilidades, materiales o herramientas especiales.
+En esta página se entregan las indicaciones y la lista de materiales necesarios para construirlo, además de discutir sus ventajas, posibles inconvenientes, y las mejoras propuestas para superar estos últimos .
+El autor del diseño del prototipo, su construcción y este sitio es el profesor Raúl Mera A.</description>
     </item>
     
   </channel>
