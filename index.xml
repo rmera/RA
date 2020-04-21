@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>RA-03</title>
+    <title>Respiradores RA on RA-04</title>
     <link>../</link>
-    <description>Recent content on RA-03</description>
+    <description>Recent content in Respiradores RA on RA-04</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>es-es</language>
-    <lastBuildDate>Sun, 05 Apr 2020 22:55:03 -0400</lastBuildDate>
+    <lastBuildDate>Sun, 05 Apr 2020 20:37:44 -0400</lastBuildDate>
     
 	<atom:link href="../index.xml" rel="self" type="application/rss+xml" />
     
@@ -17,7 +17,7 @@
       <pubDate>Sun, 05 Apr 2020 22:55:03 -0400</pubDate>
       
       <guid>../contacto/</guid>
-      <description>El autor de este sitio y del diseno de RA-03 es el profesor Raul Mera Su correo electronico aparece en la pagina enlazada.</description>
+      <description>El autor de este sitio y del diseno de RA-03 es el profesor [Raul Mera] (https://www.quimicaybiologia.usach.cl/academico/mera-adasme-raul/crear-persona) Su correo electronico aparece en la pagina enlazada.</description>
     </item>
     
     <item>
@@ -26,7 +26,7 @@
       <pubDate>Sun, 05 Apr 2020 22:55:03 -0400</pubDate>
       
       <guid>../posts/contacto/</guid>
-      <description>El autor de este sitio y del diseno de RA-03 es el profesor Raul Mera Su correo electronico aparece en la pagina enlazada.</description>
+      <description>El autor de este sitio y del diseno de RA-03 es el profesor [Raul Mera] (https://www.quimicaybiologia.usach.cl/academico/mera-adasme-raul/crear-persona) Su correo electronico aparece en la pagina enlazada.</description>
     </item>
     
     <item>
@@ -36,9 +36,9 @@
       
       <guid>../links/</guid>
       <description>Acá entregamos links que se estiman relevantes, y referencias citadas en el sitio.
- Estudio científico que demuestra la capacidad de filtros N95 y P100 de detener aerosoles virales (como los producidos con la respiracion y/o el estornudo de una persona infectada).
- Este estudio cuantifica la capacidad filtrante de varios materiales disponibles para una persona promedio.
- Este estudio muestra la importancia de lograr un buen sello entre el respirador y el rostro.</description>
+  Estudio científico que demuestra la capacidad de filtros N95 y P100 de detener aerosoles virales (como los producidos con la respiracion y/o el estornudo de una persona infectada).
+  Este estudio cuantifica la capacidad filtrante de varios materiales disponibles para una persona promedio.
+  Este estudio muestra la importancia de lograr un buen sello entre el respirador y el rostro.</description>
     </item>
     
     <item>
@@ -70,17 +70,6 @@
     
     <item>
       <title>Instrucciones</title>
-      <link>../filtro/</link>
-      <pubDate>Sun, 05 Apr 2020 21:59:05 -0400</pubDate>
-      
-      <guid>../filtro/</guid>
-      <description>El filtro es una paprte critica del resp
-El filtro es una parte crítica de cualquier respirador, y es uno de los puntos de fallo de todo el sistema (la calidad del filtro es un límite superior para la efectividad del respirador, aunque no un límite inferior!)
-Quizás más importante, en el caso del respirador mismo, es posible asegurarse de que no existen fugas de aire (intentando inspirar con la articulación del filtro bloqueada), pero es muy difícil, o, imposible, asegurarse de que no existen fugas de aire en el filtro.</description>
-    </item>
-    
-    <item>
-      <title>Instrucciones</title>
       <link>../posts/instrucciones/</link>
       <pubDate>Sun, 05 Apr 2020 21:59:05 -0400</pubDate>
       
@@ -95,8 +84,29 @@ Confección de la válvula de escape Preámbulo Una válvula de escape permite l
       <pubDate>Sun, 05 Apr 2020 21:59:05 -0400</pubDate>
       
       <guid>../resp/</guid>
+      <description>Nota: Estas instrucciones se refieren a AR-04. Las instrucciones para AR-03 se encuentran aquí
+La confección del prototipo se dividirá en varias partes:
+Confección de la válvula de escape Preámbulo Una válvula de escape permite la salida desde, pero no la entrada de aire hacia el respirador, y es necesaria para evitar el calentamiento y la acumilacion de humedad dentro de este, en particular para respiradores a ser utilizados por periodos largos de tiempo.</description>
+    </item>
+    
+    <item>
+      <title>Instrucciones</title>
+      <link>../resp_03/</link>
+      <pubDate>Sun, 05 Apr 2020 21:59:05 -0400</pubDate>
+      
+      <guid>../resp_03/</guid>
       <description>La confección del prototipo se dividirá en varias partes:
 Confección de la válvula de escape Preámbulo Una válvula de escape permite la salida desde, pero no la entrada de aire hacia el respirador, y es necesaria para evitar el calentamiento y la acumilacion de humedad dentro de este, en particular para respiradores a ser utilizados por periodos largos de tiempo. Típicamente, la válvula de un respirador comercial consiste en un orificio en el equipo cubierto por una membrana flexible, adherida por fuera al respirador por solamente un extremo.</description>
+    </item>
+    
+    <item>
+      <title>Instrucciones Filtro</title>
+      <link>../filtro/</link>
+      <pubDate>Sun, 05 Apr 2020 21:59:05 -0400</pubDate>
+      
+      <guid>../filtro/</guid>
+      <description>El filtro es una parte crítica de cualquier respirador, y es uno de los puntos de fallo de todo el sistema (la calidad del filtro es un límite superior para la efectividad del respirador, aunque no un límite inferior!)
+Quizás más importante, en el caso del respirador mismo, es posible asegurarse de que no existen fugas de aire (intentando inspirar con la articulación del filtro bloqueada), pero es muy difícil, o, imposible, asegurarse de que no existen fugas de aire en el filtro.</description>
     </item>
     
     <item>
@@ -124,12 +134,11 @@ Confección de la válvula de escape Preámbulo Una válvula de escape permite l
       
       <guid>../materiales/</guid>
       <description>Una de las metas de diseno de los respiradores RA es que su confeccion no requiera de materiales de dificil acceso.
-Nota Por reproducibilidad, se indican las marcas y modelos (entre corchetes) usados para la confeccion del prototipo RA-03
- 1 Bolsa resellable [Ilko], mediana
- Cinta aisladora [3M]
- Cinta de doble faz [extreme mounting tape, 3M]
- Cinta de teflón 0.075 mm x 3,4’’ [Dura]
- Cinta americana, cinta de ducto, o duct tape [Tesa]</description>
+Nota Por reproducibilidad, se indican las marcas y modelos (entre corchetes) usados para la confeccion de los prototipos RA-03 y RA-04.
+  1 Bolsa resellable [Ilko], mediana
+  Cinta aisladora [3M]
+  Cinta de doble faz [extreme mounting tape, 3M]
+  Cinta de teflón 0.075 mm x 3,4’’ [Dura]</description>
     </item>
     
     <item>
@@ -140,19 +149,18 @@ Nota Por reproducibilidad, se indican las marcas y modelos (entre corchetes) usa
       <guid>../posts/materiales/</guid>
       <description>Una de las metas de diseno de los respiradores RA es que su confeccion no requiera de materiales de dificil acceso.
 Nota Por reproducibilidad, se indican las marcas y modelos (entre corchetes) usados para la confeccion del prototipo RA-03
- 1 Bolsa resellable [Ilko], mediana
- Cinta aisladora [3M]
- Cinta de doble faz [extreme mounting tape, 3M]
- Cinta de teflón 0.075 mm x 3,4’’ [Dura]
- Cinta americana, cinta de ducto, o duct tape [Tesa]</description>
+  1 Bolsa resellable [Ilko], mediana
+  Cinta aisladora [3M]
+  Cinta de doble faz [extreme mounting tape, 3M]
+  Cinta de teflón 0.075 mm x 3,4’’ [Dura]</description>
     </item>
     
     <item>
       <title>Respiradores RA</title>
-      <link>../index/</link>
+      <link>../homepage/</link>
       <pubDate>Sun, 05 Apr 2020 20:37:44 -0400</pubDate>
       
-      <guid>../index/</guid>
+      <guid>../homepage/</guid>
       <description>Pensados para la protección de personal de la salud y otros profesionales expuestos al agente viral SARS-CoV-2, que causa la enfermedad COVID-19.
   El prototipo actual, RA-03 puede confeccionarse fácilmente, sin habilidades, materiales o herramientas especiales.
 En esta página se entregan las indicaciones y la lista de materiales necesarios para construirlo, además de discutir sus ventajas, posibles inconvenientes, y las mejoras propuestas para superar estos últimos .

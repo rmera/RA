@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Posts on RA-03</title>
+    <title>Posts on RA-04</title>
     <link>../posts/</link>
-    <description>Recent content in Posts on RA-03</description>
+    <description>Recent content in Posts on RA-04</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>es-es</language>
     <lastBuildDate>Sun, 05 Apr 2020 22:55:03 -0400</lastBuildDate>
@@ -17,7 +17,7 @@
       <pubDate>Sun, 05 Apr 2020 22:55:03 -0400</pubDate>
       
       <guid>../posts/contacto/</guid>
-      <description>El autor de este sitio y del diseno de RA-03 es el profesor Raul Mera Su correo electronico aparece en la pagina enlazada.</description>
+      <description>El autor de este sitio y del diseno de RA-03 es el profesor [Raul Mera] (https://www.quimicaybiologia.usach.cl/academico/mera-adasme-raul/crear-persona) Su correo electronico aparece en la pagina enlazada.</description>
     </item>
     
     <item>
@@ -65,11 +65,10 @@ Confección de la válvula de escape Preámbulo Una válvula de escape permite l
       <guid>../posts/materiales/</guid>
       <description>Una de las metas de diseno de los respiradores RA es que su confeccion no requiera de materiales de dificil acceso.
 Nota Por reproducibilidad, se indican las marcas y modelos (entre corchetes) usados para la confeccion del prototipo RA-03
- 1 Bolsa resellable [Ilko], mediana
- Cinta aisladora [3M]
- Cinta de doble faz [extreme mounting tape, 3M]
- Cinta de teflón 0.075 mm x 3,4’’ [Dura]
- Cinta americana, cinta de ducto, o duct tape [Tesa]</description>
+  1 Bolsa resellable [Ilko], mediana
+  Cinta aisladora [3M]
+  Cinta de doble faz [extreme mounting tape, 3M]
+  Cinta de teflón 0.075 mm x 3,4’’ [Dura]</description>
     </item>
     
   </channel>
