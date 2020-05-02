@@ -80,23 +80,22 @@ Confección de la válvula de escape Preámbulo Una válvula de escape permite l
     
     <item>
       <title>Instrucciones</title>
-      <link>../resp/</link>
-      <pubDate>Sun, 05 Apr 2020 21:59:05 -0400</pubDate>
-      
-      <guid>../resp/</guid>
-      <description>Nota: Estas instrucciones se refieren a RA-04. Las instrucciones para RA-03 se encuentran aquí
-La confección del prototipo se dividirá en varias partes:
-Confección de la válvula de escape Preámbulo Una válvula de escape permite la salida desde, pero no la entrada de aire hacia el respirador, y es necesaria para evitar el calentamiento y la acumilacion de humedad dentro de este, en particular para respiradores a ser utilizados por periodos largos de tiempo.</description>
-    </item>
-    
-    <item>
-      <title>Instrucciones</title>
       <link>../resp_03/</link>
       <pubDate>Sun, 05 Apr 2020 21:59:05 -0400</pubDate>
       
       <guid>../resp_03/</guid>
       <description>La confección del prototipo se dividirá en varias partes:
 Confección de la válvula de escape Preámbulo Una válvula de escape permite la salida desde, pero no la entrada de aire hacia el respirador, y es necesaria para evitar el calentamiento y la acumilacion de humedad dentro de este, en particular para respiradores a ser utilizados por periodos largos de tiempo. Típicamente, la válvula de un respirador comercial consiste en un orificio en el equipo cubierto por una membrana flexible, adherida por fuera al respirador por solamente un extremo.</description>
+    </item>
+    
+    <item>
+      <title>Instrucciones</title>
+      <link>../resp_04/</link>
+      <pubDate>Sun, 05 Apr 2020 21:59:05 -0400</pubDate>
+      
+      <guid>../resp_04/</guid>
+      <description>Nota: Estas instrucciones se refieren a RA-05. Las instrucciones para RA-04 se encuentran aquí
+Preámbulo El prototipo RA-05 es una version de los respiradores RA pensada para fabricarse en menos tiempo, con menos dificultad y con menos materiales diferentes que sus predecesores. En el video que se entrega a continuacion, se sigue la fabricacion completa de un respirador RA-05. El tiempo total utilizado es de 1 hora y 30 minutos. Desde luego, el hecho de que el video tiene fines didacticos, hace que tome mas tiempo del que tomaria normalmentela fabricacion del respirador.</description>
     </item>
     
     <item>
@@ -143,6 +142,20 @@ Una ventaja de los respiradores con filtro desmontable, como los respiradores RA
       <pubDate>Sun, 05 Apr 2020 21:32:21 -0400</pubDate>
       
       <guid>../materiales/</guid>
+      <description>Una de las metas de diseno de los respiradores RA es que su confeccion no requiera de materiales de dificil acceso. RA-05 logra esta meta mejor que sus predecesores.
+Nota Por reproducibilidad, se indican las marcas y modelos (entre corchetes) usados para la confeccion de
+  1 Bolsa resellable [Ilko], mediana
+  Cinta de doble faz [extreme mounting tape, 3M]
+  Guante de nitrilo
+  Cinta americana, cinta de ducto, o duct tape [3M]</description>
+    </item>
+    
+    <item>
+      <title>Materiales</title>
+      <link>../materiales04/</link>
+      <pubDate>Sun, 05 Apr 2020 21:32:21 -0400</pubDate>
+      
+      <guid>../materiales04/</guid>
       <description>Una de las metas de diseno de los respiradores RA es que su confeccion no requiera de materiales de dificil acceso.
 Nota Por reproducibilidad, se indican las marcas y modelos (entre corchetes) usados para la confeccion de los prototipos RA-03 y RA-04.
   1 Bolsa resellable [Ilko], mediana
@@ -172,7 +185,7 @@ Nota Por reproducibilidad, se indican las marcas y modelos (entre corchetes) usa
       
       <guid>../homepage/</guid>
       <description>Pensados para la protección de personal de la salud y otros profesionales expuestos al agente viral SARS-CoV-2, que causa la enfermedad COVID-19.
-  El prototipo actual, RA-04 puede confeccionarse fácilmente, sin habilidades, materiales o herramientas especiales.
+  El prototipo actual, RA-05 puede confeccionarse fácilmente, sin habilidades, materiales o herramientas especiales.
 En esta página se entregan las indicaciones y la lista de materiales necesarios para construirlo, además de discutir sus ventajas, posibles inconvenientes, y las mejoras propuestas para superar estos últimos.
 El autor del diseño del prototipo, su construcción y de este sitio (salvo el logo) es Raúl Mera A.</description>
     </item>
